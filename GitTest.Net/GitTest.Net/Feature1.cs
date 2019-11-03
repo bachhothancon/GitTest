@@ -6,5 +6,6 @@ namespace GitTest.Net
 {
     class Feature1
     {
+        public int MyProperty { get; set; }
     }
 }
